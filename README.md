@@ -1,4 +1,4 @@
-givestyle
+Select List Style
 =========
 
-"givestyle" is the jQuery plugin to put CSS style to HTML elements. 
+"selectstyle" is the jQuery plugin to put CSS style to HTML elements. 
